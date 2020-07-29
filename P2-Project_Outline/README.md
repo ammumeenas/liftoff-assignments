@@ -1,18 +1,20 @@
-# Project Outline
-For this assignment, you will submit a high-level outline of your project. This can, and likely will, change over time. In particular, your mentor will provide direction and feedback to help sharpen your ideas. So don't worry if you feel unsure about some aspects of the outline or if you have to change some things later.
+# **Overview** #
+I have always wanted a website for keeping tracks of few things for my vocal music class. So my project will be able to track  the student profile, attendance of the students, fee payments and few other functionalities that will be added gradually. 
 
-## Assignment Description
-[Project Outline Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-outline)
+# **Features** #
 
-## Submission Instructions
+*The user will be able to log in either by creating accounts or a guest Log in.Once they join the class, they will have to create an account. The guest users will be able to checkout the class schedule.
+Guest users will be able to able to access the course materials.They can choose the preferred course from the choices available
 
-### Overview
-Include overview here
-### Features
-Include Features here
-### Technologies
-Include Technologies here
-### What I'll Have to Learn
-Include what you will need to learn here
-### Project Tracker
-Link to your Trello board here
+*Once the guest users have joined the class and created the account,they can check their profile,fee payment status, No of vocal classes attended and class schedules.
+
+# **Tehnologies** #
+*Dotnet
+*MySql
+*Javascript
+ 
+# **What I'll Have to Learn** #
+
+I may have to revise my Javascript skills  to work with the front end requirements of this project.
+I should learn more about Bootstrap in order to take care of the styling for HTML elements and CSS and some Javascript code.
+
