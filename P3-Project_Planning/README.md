@@ -8,6 +8,11 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 * Home page ![Home page](Home-page.jpg)
+* Log in ![Log in](log-in.jpg)
+* Regular user home page ![Regular user home page](Regular-user-home-page.jpg)
+* Admin home page ![Admin Home page](Admin-home-page.jpg)
+* Admin student detail ![Admin student detail](Admin-student-detail.jpg)
+* Admin batch detail ![Admin batch detail](Admin-batch-detail.jpg)
 
 ### Project Tracker
 
