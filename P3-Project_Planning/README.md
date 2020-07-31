@@ -7,7 +7,7 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-![Home page](wireframe-Home page.jpg)
+![Alt text](/relative/path/to/wireframe-Administrative Home page.jpg?raw=true "Optional Title")
 
 ### Project Tracker
 
