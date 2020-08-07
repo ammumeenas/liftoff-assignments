@@ -1,5 +1,5 @@
 # **Overview** #
-I have always wanted a website for keeping tracks of few things for my vocal music class. So my project will be able to track  the student profile, attendance of the students, fee payments and few other functionalities that will be added gradually. 
+I have always wanted a website for keeping tracks of few things for my vocal music class. So my project will be able to track  the student profile, attendance of the students, few other functionalities that will be added gradually. 
 
 # **Features** #
 
